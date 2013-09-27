@@ -18,11 +18,13 @@ Projects
 
 ### PingApp
 
-_description to be added_
+Ping is an easy way for small groups, families and companies to quickly check in with each other through multiple channels.
+
 
 * **owners**: @usahidi, @ekala
 * **participants**: _add your handle here_
 * **repository**: https://github.com/ushahidi/pingapp/
+* **Live URL**: http://ping.ushahidi.com
 
 ### Nairobi.js
 
